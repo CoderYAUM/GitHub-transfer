@@ -1,0 +1,9 @@
+﻿  exercise 1.cpp
+D:\C++(VS2022)\c++上机6\c++上机6\exercise 1.cpp(24,6): error C2672: “IsSort”: 未找到匹配的重载函数
+D:\C++(VS2022)\c++上机6\c++上机6\exercise 1.cpp(24,5): error C2784: "bool IsSort(T [])": 无法从 "int" 推导出 "T []" 的 模板 参数
+D:\C++(VS2022)\c++上机6\c++上机6\exercise 1.cpp(6): message : 参见“IsSort”的声明
+D:\C++(VS2022)\c++上机6\c++上机6\exercise 1.cpp(31,6): error C2672: “IsSort”: 未找到匹配的重载函数
+D:\C++(VS2022)\c++上机6\c++上机6\exercise 1.cpp(31,5): error C2784: "bool IsSort(T [])": 无法从 "double" 推导出 "T []" 的 模板 参数
+D:\C++(VS2022)\c++上机6\c++上机6\exercise 1.cpp(6): message : 参见“IsSort”的声明
+  exercise 5.cpp
+  正在生成代码...
