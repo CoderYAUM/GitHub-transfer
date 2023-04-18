@@ -1,0 +1,3 @@
+In Python you can learn how to use list.
+In Python you can write the code in PyCharm.
+In Python you can use computer more easily.
